@@ -1,11 +1,4 @@
-LaTeX source files for my PhD thesis.
-
-# Basic info
-Title (french): Problèmes d'agencement pour le design génératif et la modélisation d'objets
-Title (english): Layout problems and generative design for shape modeling
-Author: Marco Freire
-Supervisor: Sylvain Lefebvre
-Laboratory: Université de Lorraine
+LaTeX template for a PhD thesis.
 
 # Folder structure
 - frontpage/: uses the thesul class to generate the frontpage of the thesis
